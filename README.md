@@ -1,4 +1,4 @@
-# MSAN630 Advanced Machine Learning course work Series 
+# MSAN630 Advanced Machine Learning Course Work Series 
 
 student: YimeiChen
 prof: Yannet Interian
