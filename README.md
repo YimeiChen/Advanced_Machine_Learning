@@ -1,6 +1,7 @@
 # MSAN630 Advanced Machine Learning Course Work Series 
 
 student: YimeiChen
+
 prof: Yannet Interian
 
 ## MINIST_Neural_Net
