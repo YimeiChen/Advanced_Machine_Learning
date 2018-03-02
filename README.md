@@ -18,4 +18,4 @@ movie rating recommendation system - collborative filtering using matrix factori
 
 ## Sentiment Analysis
 
-This project implemented word embedding to classify movie reviews into positive and negative. The large movie view dataset (http://ai.stanford. edu/~amaas/data/sentiment/) contains a collection of 50,000 reviews from IMDB. The dataset contains an even number of positive and negative reviews.
+This project implemented word embedding to classify movie reviews into positive and negative. The large movie view dataset (http://ai.stanford.edu/~amaas/data/sentiment/) contains a collection of 50,000 reviews from IMDB. The dataset contains an even number of positive and negative reviews.
