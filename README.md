@@ -1,11 +1,11 @@
-# MSAN630 Advanced Machine Learning course work Series 
+# MSAN630 Advanced Machine Learning Course Work Series 
 
 student: YimeiChen
 prof: Yannet Interian
 
 ## MINIST_Neural_Net
 
-Pytorch Vanilla  version of neural net work using MINIST dataset
+Pytorch Vanilla  version of neural network using MINIST dataset
 
 ## Boosting Tree
 
