@@ -1,6 +1,7 @@
 # MSAN630 Advanced Machine Learning Course Work Series 
 
 student: YimeiChen
+
 prof: Yannet Interian
 
 ## MINIST_Neural_Net
@@ -14,3 +15,8 @@ Ada boost algorithms constructed from the scratch and performance comparisons be
 ## Rec_Matrix_Factorization
 
 movie rating recommendation system - collborative filtering using matrix factorization
+
+
+## Sentiment Analysis
+
+This project implemented word embedding to classify movie reviews into positive and negative. The large movie view dataset (http://ai.stanford.edu/~amaas/data/sentiment/) contains a collection of 50,000 reviews from IMDB. The dataset contains an even number of positive and negative reviews.
