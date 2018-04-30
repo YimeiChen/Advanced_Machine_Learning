@@ -4,9 +4,9 @@ student: YimeiChen
 
 prof: Yannet Interian
 
-## MINIST_Neural_Net
+## MNIST_Neural_Net
 
-Pytorch Vanilla  version of neural network using MINIST dataset
+Pytorch Vanilla  version of neural network using MNIST dataset
 
 ## Boosting Tree
 
